@@ -1,1 +1,20 @@
-**/target/*
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+.idea/
+.classpath
+.project
+.settings/
+
+# Maven build output
+target/
+
+# Other temporary files
+*.log
+hs_err_pid*
